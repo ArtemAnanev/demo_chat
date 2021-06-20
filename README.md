@@ -1,0 +1,1 @@
+To start application plugin => spring-boot => spring-boot:run
